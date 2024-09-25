@@ -12,7 +12,7 @@ ARG VER
 ARG SRC
 ARG SRCPATH
 
-ARG VER="1.7.0"
+ARG VER="1.6.13-arm"
 ARG SRC="https://github.com/ArkCase/gucci.git"
 ARG SRCPATH="/build/gucci"
 
